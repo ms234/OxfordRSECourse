@@ -1,5 +1,6 @@
 ![Python Version Check (3.6-3.8)](https://github.com/ms234/OxfordRSECourse/workflows/Python%20Version%20Check%20(3.6-3.8)/badge.svg)
 ![OS Check](https://github.com/ms234/OxfordRSECourse/workflows/OS%20Check/badge.svg)
+[![codecov](https://codecov.io/gh/ms234/OxfordRSECourse/branch/master/graph/badge.svg)](https://codecov.io/gh/ms234/OxfordRSECourse)
 
 # OxRSE Continuous Integration course
 
