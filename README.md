@@ -48,3 +48,6 @@ Upgrade the build tools and install this project:
 pip install --upgrade pip setuptools wheel
 pip install -e .[dev,docs]
 ```
+
+## Documentation
+You can create documentation automatically using sphinx and https://readthedocs.org/. This creates a webpage which will host the docs and will automatically be updated if you update the docs on git.
