@@ -1,3 +1,5 @@
+![Python versions](https://github.com/ms234/OxfordRSECourse/workflows/Python%20versions/badge.svg)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
